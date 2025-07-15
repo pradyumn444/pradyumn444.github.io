@@ -10,7 +10,6 @@ Previously, I was a Business Analyst at McKinsey & Company and interned across s
 
 You can reach me at [email](mailto:pradyumn.dayal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pradyumn-dayal/).
 
----
 
 ### Experience
 
@@ -19,7 +18,6 @@ You can reach me at [email](mailto:pradyumn.dayal@gmail.com) or [LinkedIn](https
 - **McKinsey & Company**, Business Analyst — *New York City, 2023–2025*  
   Strategy, M&A, Due Diligence / Industrials, Software, Decarbonization
 
----
 
 ### Education
 
