@@ -48,16 +48,16 @@ permalink: /resume/
 
 #### Additional Distinctions
 
-- Semi-Finalist, Yale Bassett Award for Community Engagement — *Yale University, 2017*  
+- **Semi-Finalist, Yale Bassett Award for Community Engagement** — *Yale University, 2017*  
   National recognition for leadership in racial justice and migrant advocacy
 
-- Young Social Entrepreneur of the Year — *YEG Awards, 2020*  
+- **Young Social Entrepreneur of the Year** — *YEG Awards, 2020*  
   For founding Move4Migrants and advancing equity in Hong Kong
 
-- Winner, Chicago Venture Capital Competition — *University of Chicago, 2019*  
+- **Winner, Chicago Venture Capital Competition** — *University of Chicago, 2019*  
   1st place in Midway Ventures pitch competition; led valuation, due diligence, and term sheet
 
-- 3rd Place, CFA Equity Research Challenge — *CFA Institute, 2019*  
+- **3rd Place, CFA Equity Research Challenge** — *CFA Institute, 2019*  
   Team-based equity research and investment presentation for Baxter International
 
-- Prize for the Study of Economics — *Phillips Exeter Academy, 2018*
+- **Prize for the Study of Economics** — *Phillips Exeter Academy, 2018*
