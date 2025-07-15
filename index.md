@@ -12,11 +12,11 @@ permalink: /
 
   Previously, I was a Business Analyst at McKinsey & Company and interned across strategy consulting, venture capital, and research roles. I’m interested in economic design, regulatory markets, and the economics of institutions and incentives.
 
-  You can reach me at [email](mailto:pradyumn.dayal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pradyumn-dayal/).
+  You can reach me at <a href="mailto:pradyumn.dayal@gmail.com">email</a> or <a href="https://www.linkedin.com/in/pradyumn-dayal/">LinkedIn</a>.
   </div>
 </div>
 
----
+
 
 ### Experience
 
@@ -26,7 +26,7 @@ permalink: /
 - **McKinsey & Company**, Business Analyst — *New York City, 2023–2025*  
   Strategy, M&A, Due Diligence / Industrials, Software, Decarbonization
 
----
+
 
 ### Education
 
