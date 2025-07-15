@@ -4,6 +4,8 @@ title: "Pradyumn Dayal"
 permalink: /
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <div class="intro-with-photo">
   <img src="/assets/images/Headshot.JPEG" alt="Pradyumn Dayal headshot" class="bio-photo" />
 
