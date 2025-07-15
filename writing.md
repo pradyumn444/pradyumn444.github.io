@@ -4,8 +4,6 @@ title: "Writing"
 permalink: /writing/
 ---
 
-### Writing
-
 Sporadic thoughts on applied economics, competition, and business. Writing does not reflect the views or empirical approaches of my employers.
 
 - **[Shell/BP: Spatial Analysis in Gas Station Merger](#)**  
