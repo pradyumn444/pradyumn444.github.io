@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Pradyumn Dayal"
+title: ""
 permalink: /
 ---
 
