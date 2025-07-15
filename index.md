@@ -8,11 +8,11 @@ permalink: /
   <img src="/assets/images/Headshot.JPEG" alt="Pradyumn Dayal headshot" class="bio-photo" />
 
   <div class="intro-text">
-  Hi, I’m Prady. I work in economic consulting, with experience in transfer pricing, antitrust, and applied market analysis. My work focuses on the intersection of economics, technology, competition, and policy.
+  <p>Hi, I’m Prady. I work in economic consulting, with experience in transfer pricing, antitrust, and applied market analysis. My work focuses on the intersection of economics, technology, competition, and policy.</p>
 
-  Previously, I was a Business Analyst at McKinsey & Company and interned across strategy consulting, venture capital, and research roles. I’m interested in economic design, regulatory markets, and the economics of institutions and incentives.
+  <p>Previously, I was a Business Analyst at McKinsey & Company and interned across strategy consulting, venture capital, and research roles. I’m interested in economic design, regulatory markets, and the economics of institutions and incentives.</p>
 
-  You can reach me at <a href="mailto:pradyumn.dayal@gmail.com">email</a> or <a href="https://www.linkedin.com/in/pradyumn-dayal/">LinkedIn</a>.
+  <p>You can reach me at <a href="mailto:pradyumn.dayal@gmail.com">email</a> or <a href="https://www.linkedin.com/in/pradyumn-dayal/">LinkedIn</a>.</p>
   </div>
 </div>
 
