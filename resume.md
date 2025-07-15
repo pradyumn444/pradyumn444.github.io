@@ -3,9 +3,6 @@ layout: page
 title: "Resume"
 permalink: /resume/
 ---
-
-### Resume
-
 #### Experience
 
 - **Keystone Strategy / Keystone.ai**, Senior Associate — *New York City, May 2025 – Present*  
