@@ -4,7 +4,7 @@ title: "Pradyumn Dayal"
 permalink: /
 ---
 
-Hi, I’m Pradyumn Dayal — I work in economic consulting, with experience in antitrust, transfer pricing, and applied market analysis. My work often focuses on the intersection of economics, competition, and policy — including spatial analysis, enforcement, and platform markets.
+Hi, I’m Prady. I work in economic consulting, with experience in transfer pricing, antitrust, and applied market analysis. My work focuses on the intersection of economics, technology, competition, and policy.
 
 Previously, I was a Business Analyst at McKinsey & Company and interned across strategy consulting, venture capital, and research roles. I’m interested in economic design, regulatory markets, and the economics of institutions and incentives.
 
