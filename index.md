@@ -18,8 +18,6 @@ permalink: /
   </div>
 </div>
 
-
-
 ### Experience
 
 - **Keystone Strategy / Keystone.ai**, Senior Associate — *New York City, 2025–Present*  
