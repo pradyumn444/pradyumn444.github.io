@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div class="intro-with-photo">
-  <img src="/assets/images/bio-photo.jpg" alt="Pradyumn Dayal headshot" class="bio-photo" />
+  <img src="/assets/images/Headshot.JPEG" alt="Pradyumn Dayal headshot" class="bio-photo" />
 
   <div class="intro-text">
   Hi, I’m Prady. I work in economic consulting, with experience in transfer pricing, antitrust, and applied market analysis. My work focuses on the intersection of economics, technology, competition, and policy.
