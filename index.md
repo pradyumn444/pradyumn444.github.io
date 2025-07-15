@@ -3,7 +3,7 @@
 
 I'm an economic consultant with experience in management consulting and applied economic analysis, particularly in the context of mergers and competition. I enjoy working at the intersection of strategy, data, and policy — and occasionally write about spatial markets and industrial organization.
 
-I previously worked at [McKinsey & Company](https://www.mckinsey.com/) as a Business Analyst, and currently work in economic consulting.
+I previously worked at McKinsey as a Business Analyst, and currently work in economic consulting.
 
 You can [email me](mailto:pradyumn.dayal@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/pradyumn-dayal/).
 
