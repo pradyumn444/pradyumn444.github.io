@@ -9,7 +9,7 @@ permalink: /
 
   <p>Hi, I’m Prady. I work in economic consulting, with experience in transfer pricing, antitrust, and applied market analysis. My work focuses on the intersection of economics, technology, competition, and policy.</p>
   <p>Previously, I was a Business Analyst at McKinsey & Company and interned across strategy consulting, venture capital, and research roles. I’m interested in economic design, regulatory markets, and the economics of institutions and incentives.</p>
-  <p>You can reach me at [email](mailto:pradyumn.dayal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/pradyumn-dayal/).</p>
+  <p>You can reach me at <a href="mailto:pradyumn.dayal@gmail.com">email</a> or <a href="https://www.linkedin.com/in/pradyumn-dayal/">LinkedIn</a>.</p>
 </div>
 
 
