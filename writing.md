@@ -6,10 +6,7 @@ permalink: /writing/
 
 ### Writing
 
-Occasional thoughts on applied economics, competition, and markets.
+Sporadic thoughts on applied economics, competition, and business. Writing does not reflect the views or empirical approaches of my employers.
 
 - **[Shell/BP: Spatial Analysis in Gas Station Merger](#)**  
-  A breakdown of proximity mapping and market overlap in a hypothetical fuel retail M&A scenario. *(Coming soon)*
-
-- **[Why Supermarkets Cluster](#)**  
-  On local market entry, consumer density, and why Whole Foods and Trader Joe’s follow each other. *(Coming soon)*
+  I used tract-level commuter data and real driving routes to redefine local markets as “fuel loops” — a route-based approach to market overlap that challenges conventional proximity mapping in fuel retail mergers. Inspired by a hypothetical but denied fuel retail M&A scenario. *(Coming soon)*
