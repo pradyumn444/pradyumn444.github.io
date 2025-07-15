@@ -7,6 +7,12 @@ baseurl: ""
 url: "https://pradyumndayal.com"
 theme: minima
 
+sass:
+  style: compressed
+
+include:
+  - assets/css
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
