@@ -1,10 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to my website!"
+date: 2025-07-15T07:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
   - update
 ---
 
